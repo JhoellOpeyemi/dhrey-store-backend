@@ -41,7 +41,8 @@
       "mappedBy": "products"
     },
     "initialPrice": {
-      "type": "integer"
+      "type": "integer",
+      "required": true
     }
   }
 }
